@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="nurlan_aliyev">Nurlan Aliyev</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">Hi, I\'m Nurlan, \n\n
+        I\'m a developer, \n\n
+        I\'m learning native Android programming with Kotlin, \n
+        I\'m using Google\'s course to broaden my skill on Android Programming. \n\n
+        I\'ve experience over bunch of programming languages like Python, JS, C++, C# and etc.\n\n
+        I\'m looking forward to learn and realize my ideas.\n
+        Thanks for reading.\n\n
+
+        Hi, I\'m Nurlan, \n\n
+        I\'m a developer, \n\n
+        I\'m learning native Android programming with Kotlin, \n
+        I\'m using Google\'s course to broaden my skill on Android Programming. \n\n
+        I\'ve experience over bunch of programming languages like Python, JS, C++, C# and etc.\n\n
+        I\'m looking forward to learn and realize my ideas.\n
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
